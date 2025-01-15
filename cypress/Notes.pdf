@@ -1,0 +1,25 @@
+CSS - Cascasading Style Sheet
+-----------------------------
+<div class="profile_email" id="profile_email">suresh-rani13@outlook.com</div>
+
+#HTML
+tagName
+attribute
+value
+
+Rules 
+1. If you are aware about the classname, then the CSS selector will be
+.classame
+class = profile email_id
+class = profile.email_id
+
+class name is not available
+
+2. If you are aware about the id, then the CSS selection will be
+#id
+
+3. If you are aware about classname and attribute and value then the css selector will be 
+- tagName[attribute = 'value']
+
+4. If you are aware about tagName and attribute
+- [tagName = 'attribute']

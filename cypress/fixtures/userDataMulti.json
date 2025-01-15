@@ -1,0 +1,33 @@
+[
+    
+    {
+      "username": "xyz",
+      "password": "admin123",
+      "expected": "Dashboard"
+    },
+    {
+      "username": "Admin",
+      "password": "xyz",
+      "expected": "Dashboard"
+    },
+    {
+        "username": "Admisn",
+        "password": "admin123",
+        "expected": "Dashboard"
+    },
+    {
+        "username": "xyz",
+        "password": "admin123",
+        "expected": "Dashboard"
+      },
+      {
+        "username": "Admin",
+        "password": "xyz",
+        "expected": "Dashboard"
+      },
+      {
+          "username": "Admin",
+          "password": "admin123",
+          "expected": "Dashboard"
+      }
+  ]

@@ -1,0 +1,23 @@
+{
+    "username": "Admin",
+    "password": "admin123",
+    "expected":"Dashboard",
+    "address": [
+      {
+        "street1": "123 Street View - 1",
+        "zip": "1231"
+      },
+      {
+        "street1": "123 Street View - 2",
+        "zip": "1231"
+      },
+      {
+        "street1": "123 Street View - 3",
+        "zip": "1231"
+      },
+      {
+        "street1": "123 Street View - 4",
+        "zip": "1231"
+      }
+    ]
+  }

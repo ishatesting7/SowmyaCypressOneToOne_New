@@ -1,0 +1,24 @@
+{
+  "name": "sowmyacypressonetoone",
+  "version": "1.0.0",
+  "description": "This is the cypress practise for the framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.5",
+    "@faker-js/faker": "^9.3.0",
+    "cypress": "^13.16.0",
+    "cypress-iframe": "^1.0.1",
+    "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "neat-csv": "^5.2.0",
+    "prompt-sync": "^4.2.0",
+    "xlsx": "^0.18.5",
+    "xpath": "^0.0.34"
+  }
+}
