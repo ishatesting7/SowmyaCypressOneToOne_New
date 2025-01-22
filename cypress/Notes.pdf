@@ -23,3 +23,31 @@ class name is not available
 
 4. If you are aware about tagName and attribute
 - [tagName = 'attribute']
+
+
+-----------------------------------------------------------
+API - Application Programming Interface
+
+HTTP Methods Type
+-----------------
+GET
+
+HTTP EndPoint - URL
+Method Type - GET
+Status Code - 200
+Response Payload - JSON, XML, HTML, GraphQL
+
+POST
+HTTP EndPoint - URL
+Method Type - GET
+Status Code - 200
+Response Payload - JSON, XML, HTML, GraphQL
+Request Payload - JSON, XML, HTML, GraphQL
+
+
+PUT
+PATCH
+DELETE
+
+
+HTTP Status Code

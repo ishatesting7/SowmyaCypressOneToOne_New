@@ -1,0 +1,23 @@
+[{
+    "id": "x",  
+    "username":    2243, 
+    "lastName": "Test",
+   "email"      : "test@yopmail,com",
+    "password": "123",
+    "phone": "123123123",
+    "$schema": "SDDS"
+
+},
+
+{
+    "id": "x",  
+    "username":    "2243", 
+    "firstName": "QA",
+    "lastName": "Test",
+   "email"      : "test@yopmail,com",
+    "password": "123",
+    "phone": "123123123",
+    "$schema": "asd"
+
+}
+]
